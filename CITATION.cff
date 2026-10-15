@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "Dentista: patient records, treatment plans and estimates for an orthodontic practice (db, 2000–2003)"
+version: "1.0"
+abstract: "Dentista is the clinical and administrative archive of an orthodontic practice. Each patient record holds personal data, anamnesis, the orthodontic examination (frontal and lateral analysis, overjet, tooth-size discrepancy, curve of Spee, supernumerary and missing teeth, extractions, temporomandibular joint), up to seven diagnoses, prognosis and the planned and completed treatments with dates and appointment times. The practice prints patient sheets, appointment cards, estimates and instalment plans; tooth symbols and schematic drawings of the face and dental arches are used for the charting."
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+license: MIT
+date-released: "2003-10-05"
+repository-code: "https://github.com/massimosbarbaro/orthodontic-practice-records-access"
+keywords:
+  - "Microsoft Access"
+  - "orthodontics"
+  - "dental practice"
+  - "patient records"
+  - "treatment planning"
+  - "legacy software"
