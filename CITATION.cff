@@ -10,9 +10,9 @@ authors:
     orcid: "https://orcid.org/0009-0006-8965-9013"
 license: MIT
 date-released: "2003-10-05"
-repository-code: "https://github.com/massimosbarbaro/orthodontic-practice-records-access"
+repository-code: "https://github.com/massimosbarbaro/orthodontic-practice-records-db"
 keywords:
-  - "Microsoft Access"
+  - "db"
   - "orthodontics"
   - "dental practice"
   - "patient records"
